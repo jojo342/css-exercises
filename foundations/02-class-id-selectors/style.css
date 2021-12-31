@@ -1,0 +1,16 @@
+.paragraph:nth-child(2n+1){
+    background-color: rgb(238, 151, 165);
+    font-family: Verdana, sans-serif;
+}
+#blue{
+    color: rgb(0, 0, 255);
+    font-size: 36px;
+}
+.larger{
+    font-size: 24px;
+}
+#green{
+    font-size: 24px;
+    background-color: rgb(111, 245, 111);
+    font-weight: bold;
+}
